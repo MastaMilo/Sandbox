@@ -32,7 +32,7 @@ public class Main extends Application {
         TextField input = new TextField();
         input.setMinSize(550,50);
 
-
+        //changed
 
         TextField output = new TextField();
         output.setPrefHeight(550);
