@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sandbox.iml" filepath="$PROJECT_DIR$/Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleProgram.iml" filepath="$PROJECT_DIR$/ExampleProgram.iml" />
     </modules>
   </component>
 </project>
